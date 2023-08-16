@@ -1,4 +1,4 @@
 # projects
 
 
-| S.no | name | Description | 
+| S.no.| Name | Description|
