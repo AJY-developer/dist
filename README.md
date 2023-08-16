@@ -6,4 +6,3 @@ There are Some basic frontEnd Projects used with the help of React
 
 | S.no.| Name | Description|
 | -----| -----| -----|
-|1.| name| desc|
